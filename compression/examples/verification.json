@@ -1,0 +1,16 @@
+{
+  "huffman": {
+    "original_bytes": 3892485,
+    "archive_bytes": 3818137,
+    "ratio_original_over_archive": 1.0195,
+    "round_trip_exact": true,
+    "sha256_original_and_restored": "f1128930c12b2f907a864b7c2b8c2dfaac7447eb2ca23918ea5c329687197bd3"
+  },
+  "arithmetic": {
+    "original_bytes": 3892485,
+    "archive_bytes": 3788657,
+    "ratio_original_over_archive": 1.0274,
+    "round_trip_exact": true,
+    "sha256_original_and_restored": "f1128930c12b2f907a864b7c2b8c2dfaac7447eb2ca23918ea5c329687197bd3"
+  }
+}
